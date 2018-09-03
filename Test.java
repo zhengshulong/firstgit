@@ -1,2 +1,2 @@
-//lisi branch commit
-int a = 10
+//解决了冲突
+char c = "c"
