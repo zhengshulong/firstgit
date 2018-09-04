@@ -1,2 +1,2 @@
-//zhangsan commit
-String str = "zhangsan"
+//new commit
+char a = "a"
